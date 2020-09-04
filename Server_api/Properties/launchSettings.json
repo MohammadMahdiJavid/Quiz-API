@@ -20,8 +20,8 @@
     "Server_api": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "weatherforecast",
-      "applicationUrl": "http://localhost:6001",
+      "launchUrl": "API",
+      "applicationUrl": "https://mahdi-javid.github.io/Quiz-API/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
